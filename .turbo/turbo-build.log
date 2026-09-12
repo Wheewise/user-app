@@ -1,0 +1,44 @@
+
+> user-app@0.0.0 build
+> next build
+
+   ▲ Next.js 15.5.25
+
+   Creating an optimized production build ...
+ ✓ Compiled successfully in 3.6s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/13) ...
+   Generating static pages (3/13) 
+   Generating static pages (6/13) 
+   Generating static pages (9/13) 
+ ✓ Generating static pages (13/13)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS
+┌ ƒ /                                      166 B         106 kB
+├ ƒ /_not-found                            988 B         104 kB
+├ ○ /apple-icon.png                          0 B            0 B
+├ ƒ /browse                                166 B         106 kB
+├ ƒ /enquiries                             166 B         106 kB
+├ ƒ /enquiries/[id]                      3.13 kB         106 kB
+├ ○ /icon.png                                0 B            0 B
+├ ƒ /login                               3.04 kB         176 kB
+├ ○ /manifest.webmanifest                  122 B         103 kB
+├ ○ /opengraph-image.png                     0 B            0 B
+├ ƒ /signup                              3.35 kB         106 kB
+├ ƒ /store/[slug]                        1.55 kB         108 kB
+├ ƒ /vehicle/[slug]                      3.71 kB         110 kB
+└ ƒ /wishlist                              681 B         107 kB
++ First Load JS shared by all             103 kB
+  ├ chunks/18-2c82660ce7c4918d.js        46.4 kB
+  ├ chunks/87c73c54-24122e7b92478d00.js  54.2 kB
+  └ other shared chunks (total)          1.99 kB
+
+
+ƒ Middleware                             93.2 kB
+
+○  (Static)   prerendered as static content
+ƒ  (Dynamic)  server-rendered on demand
+

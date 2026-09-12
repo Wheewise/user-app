@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "browse": "लिस्टिंग ब्राउज़ करें",
+    "wishlist": "विशलिस्ट",
+    "chat": "चैट",
+    "notifications": "सूचनाएं",
+    "becomeDealer": "डीलर बनें",
+    "help": "सहायता",
+    "settings": "सेटिंग्स",
+    "selectLanguage": "भाषा चुनें",
+    "login": "लॉगिन",
+    "editProfile": "प्रोफ़ाइल संपादित करें",
+    "installApp": "ऐप इंस्टॉल करें",
+    "allCategories": "सभी श्रेणियां",
+    "allVehicles": "सभी वाहन"
+  },
+  "categories": {
+    "cars": "कारें",
+    "bikes": "बाइक",
+    "commercial": "कमर्शियल",
+    "taxi": "टैक्सी",
+    "lease": "लीज़"
+  },
+  "home": {
+    "newlyAdded": "नई लिस्टिंग",
+    "exploreMore": "और देखें"
+  },
+  "auth": {
+    "signIn": "साइन इन करें",
+    "signInSubtitle": "पूछताछ करें, लिस्टिंग सेव करें, और डीलरों से चैट करें।",
+    "email": "ईमेल",
+    "password": "पासवर्ड",
+    "forgotPassword": "पासवर्ड भूल गए?",
+    "logIn": "लॉग इन करें",
+    "signingIn": "साइन इन हो रहा है…",
+    "continueWithGoogle": "Google से जारी रखें",
+    "redirecting": "रीडायरेक्ट हो रहा है…",
+    "or": "या",
+    "newHere": "नए हैं?",
+    "alreadyHaveAccount": "पहले से खाता है?",
+    "createAccount": "खाता बनाएं",
+    "signupSubtitle": "पसंदीदा सेव करें, डीलरों से चैट करें, और अपनी पूछताछ ट्रैक करें।",
+    "signInLink": "साइन इन करें",
+    "resetPasswordTitle": "पासवर्ड रीसेट करें",
+    "resetPasswordSubtitle": "हम आपको इसे रीसेट करने के लिए एक लिंक ईमेल करेंगे।",
+    "sendResetLink": "रीसेट लिंक भेजें",
+    "sending": "भेजा जा रहा है…",
+    "backToSignIn": "साइन इन पर वापस जाएं",
+    "checkYourEmail": "अपना ईमेल जांचें",
+    "resetLinkSent": "हमने {email} पर एक पासवर्ड रीसेट लिंक भेज दिया है। अपना इनबॉक्स और स्पैम फ़ोल्डर देखें।"
+  },
+  "footer": {
+    "popularCities": "प्रमुख शहर",
+    "moreCities": "अन्य शहर",
+    "categories": "श्रेणियां",
+    "quickLinks": "त्वरित लिंक",
+    "followUs": "हमें फॉलो करें"
+  },
+  "language": {
+    "chooseLanguage": "भाषा चुनें",
+    "en": "अंग्रेज़ी",
+    "ml": "मलयालम",
+    "hi": "हिन्दी"
+  }
+}

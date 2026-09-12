@@ -1,0 +1,65 @@
+{
+  "nav": {
+    "browse": "Browse listings",
+    "wishlist": "Wishlist",
+    "chat": "Chat",
+    "notifications": "Notifications",
+    "becomeDealer": "Become a dealer",
+    "help": "Help",
+    "settings": "Settings",
+    "selectLanguage": "Select language",
+    "login": "Login",
+    "editProfile": "Edit profile",
+    "installApp": "Install app",
+    "allCategories": "All categories",
+    "allVehicles": "All vehicles"
+  },
+  "categories": {
+    "cars": "Cars",
+    "bikes": "Bikes",
+    "commercial": "Commercial",
+    "taxi": "Taxi",
+    "lease": "Lease"
+  },
+  "home": {
+    "newlyAdded": "Newly added",
+    "exploreMore": "Explore more"
+  },
+  "auth": {
+    "signIn": "Sign in",
+    "signInSubtitle": "Enquire, save listings, and message dealers.",
+    "email": "Email",
+    "password": "Password",
+    "forgotPassword": "Forgot password?",
+    "logIn": "Log in",
+    "signingIn": "Signing in…",
+    "continueWithGoogle": "Continue with Google",
+    "redirecting": "Redirecting…",
+    "or": "or",
+    "newHere": "New here?",
+    "alreadyHaveAccount": "Already have an account?",
+    "createAccount": "Create an account",
+    "signupSubtitle": "Save favourites, message dealers, and track your enquiries.",
+    "signInLink": "Sign in",
+    "resetPasswordTitle": "Reset your password",
+    "resetPasswordSubtitle": "We'll email you a link to reset it.",
+    "sendResetLink": "Send reset link",
+    "sending": "Sending…",
+    "backToSignIn": "Back to sign in",
+    "checkYourEmail": "Check your email",
+    "resetLinkSent": "We've sent a password reset link to {email}. Check your inbox, and spam if it doesn't show up."
+  },
+  "footer": {
+    "popularCities": "Popular cities",
+    "moreCities": "More cities",
+    "categories": "Categories",
+    "quickLinks": "Quick links",
+    "followUs": "Follow us"
+  },
+  "language": {
+    "chooseLanguage": "Choose language",
+    "en": "English",
+    "ml": "Malayalam",
+    "hi": "Hindi"
+  }
+}
